@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+.idea
+lib/*
+bin/*
+
+/__pycache__/*
+*.py[cod]
+*$py.class
+pyvenv.cfg
+.DS_Store
+target/
+venv/lib/python3.7
+
+Graph/*
+
+training.log
+streetfighter_weight.h5
