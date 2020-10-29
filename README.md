@@ -17,7 +17,7 @@ These instructions help you set up the virtual env, install the requirements and
    `python3 -m venv StreetFighterAI/`
 3. `cd StreetFighterAI/`
 4. clone the repo into the same folder that holds the venv 
-   `git clone git@github.com:bruder-grimm/ml.git`
+   `git clone git@github.com:bruder-grimm/qlearning-plista.git`
 5. activate the venv with `source bin/activate`
 
 ## Start the training
